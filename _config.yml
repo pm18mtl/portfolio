@@ -39,7 +39,7 @@ baseurl: "/portfolio" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    github: CODEMIKE
+    github: pm18mtl
 
 # Set this to true to get LaTeX math equation support
 use_math: true
