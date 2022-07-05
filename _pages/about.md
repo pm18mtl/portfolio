@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I currently work as an AWS Platform Engineer at N Brown group based in the Northern Quarter, Manchester city centre. My work involves working on and growing skills in one of the world’s largest and broadly adopted cloud infrastructure providers, AWS. I practise devOps and Infrastructure as Code – Terraform, Operating System skills e.g. Linux, programming languages including Python, Bash and many more. Also, I assist in housekeeping and maintenance tasks on platforms.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I graduated from the University of Leeds with an MSc in Chemical Biology and Drug Design, subsequently I gained a PGCert in Data Science and Artificial Intelligence from the University of Liverpool. 
